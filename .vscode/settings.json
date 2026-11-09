@@ -1,0 +1,16 @@
+{
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda",
+  "python.defaultInterpreterPath": "C:\\Users\\22560\\Desktop\\LLM\\Zjh_env\\python.exe",
+  "terminal.integrated.cwd": "C:\\Users\\22560\\Desktop\\LLM",
+  "terminal.integrated.profiles.windows": {
+    "LLM (Zjh_env)": {
+      "path": "C:\\Windows\\System32\\cmd.exe",
+      "args": [
+        "/K",
+        "C:\\Users\\22560\\miniconda3\\Scripts\\activate.bat C:\\Users\\22560\\Desktop\\LLM\\Zjh_env"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "LLM (Zjh_env)"
+}
